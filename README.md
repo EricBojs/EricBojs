@@ -1,7 +1,8 @@
 ### Hej hallå!
 
 Welcome to my Github ✨
-Repos are a bit sparse here at the moment, but I'm sure you'll find some of my work interesting. 
+I pursuing a masters degree in Financial Mathematics at KTH in Stockholm, Sweden. My B.Sc was in Applied Mathematics and Industrial Economics, also at KTH - although I was at ETH 
+Zürich and the University of Nairobi during that time aswell. 
 
 
 ## Barcoding Nairobi
