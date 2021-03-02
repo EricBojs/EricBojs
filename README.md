@@ -14,4 +14,4 @@ My B.Sc thesis in Applied Mathematics was done at the University of Nairobi and 
 ## Osäker osäkerhet
 📈 You'll also find a project on financial modelling using Python. The project is in the form of a workbook using Colab/Jupyter Notebook teaching the reader how to download financial data, model financial claims and calculating volatilities (implied and historical). Unfortunely (?), it is only available for the Swedish speaker...
 
-![Figures from project "Osäker osäkert"](https://github.com/EricBojs/Osaker-osakerhet/blob/master/Plots/Figure.png?raw=true "Osäker osäkerhet")
+<img src="https://github.com/EricBojs/Osaker-osakerhet/blob/master/Plots/Figure.png?raw=true" width="500">
