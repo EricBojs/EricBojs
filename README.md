@@ -3,7 +3,7 @@
 Welcome to my Github ✨
 Currently, I'm pursuing a masters degree in Financial Mathematics at KTH in Stockholm, Sweden. My B.Sc was in Applied Mathematics and Industrial Economics, also at KTH - I was on an exchange to ETH Zürich where I studied risk mathematics among other things, and I was a visiting student at the University of Nairobi during my last semester. 
 
-I mostly operate in private repos, but some are available to the public (_or somewhat available_) 🍳 
+I mostly operate in private repos, but some are available to the public (_or somewhat available_) 🍳 Reason for this is that most of my work involve Topological Data Analysis where I use licensed libraries not available to the public yet. 
 
 ### Barcoding Nairobi
 ⚡ My most interesting work is in the field of **Topological Data Analysis**.
