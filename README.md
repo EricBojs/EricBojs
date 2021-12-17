@@ -9,7 +9,7 @@ I mostly operate in private repos, but some are available to the public (_or som
 📊 Working together with a fintech firm and three classmates we looked into the possibility to use ML algorithms in the technology.
 To solve a constrained non-linear optimization problem, the client used an evolutionary algorithm (CMA-ES). Due to the nature of the problem, labeling solutions as feasible or non-feasible turned out to be computationally heavy. Thus, our projects looked into to see if machine learning algorithms could be used to filter out non-feasible solutions. For this, a wide range of both supervised and unsupervised machine learning methods were studied. Unfortunately, no method yielded fruitful result. This is most likely due to the evolutionary algorithm advancing towards the optimum in iterational steps which were to long leading to an the ML algortithms needing to extrapolate predication in combination with the non-linear constraints being to complex.
 
-![](https://github.com/KodAgge/Feasibility-Prediction/blob/main/code/plots/3dscatter.gif)
+![](https://github.com/KodAgge/Feasibility-Prediction/blob/master/code/plots/3dscatter.gif)
 
 ### [Barcoding Nairobi](https://github.com/EricBojs/Barcoding-Nairobi)
 ⚡ My most interesting work is in the field of **Topological Data Analysis**.
