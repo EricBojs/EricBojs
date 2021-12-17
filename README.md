@@ -3,12 +3,12 @@
 Welcome to my Github ✨
 Currently, I'm pursuing a masters degree in Financial Mathematics at KTH in Stockholm, Sweden. My B.Sc was in Applied Mathematics and Industrial Economics, also at KTH - I was on an exchange to ETH Zürich where I studied risk mathematics among other things, and I was a visiting student at the University of Nairobi during my last semester. 
 
-I mostly operate in private repos, but some are available to the public (_or somewhat available_) 🍳 Reason for this is that most of my work involve Topological Data Analysis where I use licensed libraries not available to the public yet. 
+I mostly operate in private repos, but some are available to the public (_or somewhat available_ 🍳)  Reason for this is that the lion part of my work involve Topological Data Analysis where I use licensed libraries. 
 
 ## [Feasability prediction](https://github.com/KodAgge/Feasibility-Prediction)
-📊 Working together with a fintech firm and three classmates we looked into the possibility to use ML algorithms in the technology.
-To solve a constrained non-linear optimization problem, the client used an evolutionary algorithm (CMA-ES). Due to the nature of the problem, labeling solutions as feasible or non-feasible turned out to be computationally heavy. Thus, our projects looked into to see if machine learning algorithms could be used to filter out non-feasible solutions. For this, a wide range of both supervised and unsupervised machine learning methods were studied. Unfortunately, no method yielded fruitful result. This is most likely due to the evolutionary algorithm advancing towards the optimum in iterational steps which were to long leading to an the ML algortithms needing to extrapolate predication in combination with the non-linear constraints being to complex.
+📊 Working together with a fintech firm and three classmates we looked into the possibility of using Machine Learning to speed up their operations. The team within the firm we were working with had one main task: solving a constrained non-linear optimization problem using an evolutionary optimization algorithm called CMA-ES. However, there was one problem, deciding upon the feasibility of the solutions the algorithm suggested was computationally heavy. Our task was thus to see if Machine Learning could be used to filter out infeasible solutions. We took an explorative approach, testing a wide range of Machine Learning algorithms, supervised as well as unsupervised. Unfortunetaly, not method yielded useful results. We thinks this is mainly due to the evolutionary algorithm advancing towards the optimum in iterational steps through the large feature space (~4000 dimensions), which means that the classifiers needs to extrapolate.
 
+Below follows a gif of how the CMA-ES moves during its first 100 iterations, projected down to 3 dimensions using PCA.
 ![](https://github.com/KodAgge/Feasibility-Prediction/blob/master/code/plots/3dscatter.gif)
 
 ## [Barcoding Nairobi](https://github.com/EricBojs/Barcoding-Nairobi)
