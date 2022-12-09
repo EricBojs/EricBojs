@@ -1,7 +1,7 @@
 # Hej hallå!
 
 Welcome to my Github ✨
-I'm currently pursuing a masters degree in Financial Mathematics at [KTH](https://www.kth.se/) in Stockholm, Sweden. My B.Sc was in Applied Mathematics and Industrial Economics, also at KTH - I was on an exchange to ETH Zürich where I studied risk mathematics among other things, and I was a visiting student at the University of Nairobi during my last semester. Best way to reach out to me would be at [/in/bojs](https://www.linkedin.com/in/bojs/).
+I recently finished a masters degree in Financial Mathematics at [KTH](https://www.kth.se/) in Stockholm, Sweden. My B.Sc was in Applied Mathematics and Industrial Economics, also at KTH - I was on an exchange to ETH Zürich where I studied risk mathematics among other things, and I was a visiting student at the University of Nairobi during my last semester. Best way to reach out to me would be at [/in/bojs](https://www.linkedin.com/in/bojs/).
 
 I mostly operate in private repos, but some are available to the public (_or somewhat available_ 🍳)  Reason for this is that the lion part of my work involve Topological Data Analysis where I use licensed libraries. 
 
